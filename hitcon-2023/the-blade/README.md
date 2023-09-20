@@ -16,6 +16,11 @@ Reverse. 1/5 ⭐️. 40/683 solves.
 > (Hey, this is my first Rust project. Feel free to give me any advice and criticism 😃)
 
 
+## Writeup
+
+- [TrebledJ: HITCON 2023 – The Blade](https://trebledj.github.io/posts/hitcon-2023-the-blade/)
+
+
 ## Source
 
 - [wxrdnx/seccomp-shell](https://github.com/wxrdnx/seccomp-shell)
