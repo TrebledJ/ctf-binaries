@@ -14,6 +14,6 @@ Reverse. Cursed. Misc. 17/291 solves.
 
 ## Writeup
 
-- [TrebledJ: HITCON 2023 – The Blade](https://trebledj.github.io/posts/maplectf-2023-mostly-harmless/)
+- [TrebledJ: N[Subtype Metaprogramming] is N[Mostly Harmless]](https://trebledj.github.io/posts/maplectf-2023-mostly-harmless/)
 
 
