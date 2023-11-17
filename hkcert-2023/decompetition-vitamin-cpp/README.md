@@ -1,6 +1,6 @@
 # Decompetition: Vitamin C++
 
-SHA-1: `8d842fdae626f19d23f6444c27e313d729c09c16`.
+MD5: `2a67580130014fb2d3c4474eed8ad0f7`.
 
 ## Author
 
